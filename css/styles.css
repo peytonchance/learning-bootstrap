@@ -1,0 +1,76 @@
+/* Custom Styles */
+/* Peyton Chance */
+
+
+/* --------- Global Styles --------*/
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2{
+  font-weight: 600;
+  margin-bottom: 30px;
+  font-family: 'Bevan', sans-serif;
+}
+
+h3{
+  font-family: 'Bevan', sans-serif;
+}
+
+/* -------- Buttons ------*/
+.btn{
+  border-color: #2B4989;
+  color: #2B4989;
+}
+.btn:hover{
+  background: #2B4989;
+  border-color: inherit;
+  border-radius: 5px;
+}
+.btn, .form-control{
+  border-radius: 3px;
+}
+
+/* ----- Hero ------*/
+
+.hero{
+  padding: 0;
+}
+
+/* ----- Blurbs -----*/
+.blurbs{
+  margin-top: 40px;
+}
+.fa{
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.map{
+  margin-bottom: 40px;
+}
+
+.map h2{
+  margin-top: 50px;
+}
+/*----- Footer ----*/
+footer{
+  background-color: #F7F7F7;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #000;
+}
+
+footer ul{
+    list-style-type: none;
+    line-height: 20px;
+    padding-left: 0px;
+    margin-top: 10px;
+  }
+
+footer li a{
+    color: #000;
+}
+
+.nav-link{
+  padding: .5em 0em;
+}
